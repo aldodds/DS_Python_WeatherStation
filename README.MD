@@ -5,4 +5,4 @@ En este proyecto afianzo los conceptos, ejemplos y usos de las librerais de nump
 Los datos fueron tomados de la plataforma [kaggle](https://www.kaggle.com/datasets/datosemafpuna/datosestacion).
 
 # To do list
-Preguntar qué es, cómo se entiende/interpreta, el último resultado
+Preguntar qué debo hacer con esos datos falantes/duplicados
